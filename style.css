@@ -3,3 +3,7 @@ html, body {
     color: black;
     font-family: "Andale Mono", monospace;
 }
+
+.candidato {
+    flex-direction: row;
+}
