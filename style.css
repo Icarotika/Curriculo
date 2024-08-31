@@ -8,8 +8,5 @@ html, body {
 .candidato {
     display: flex;
     flex-direction: row;
-}
-
-.candidato {
     border-style: solid;
 }
