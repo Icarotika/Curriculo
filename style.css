@@ -10,3 +10,10 @@ html, body {
     flex-direction: row;
     border-style: solid;
 }
+
+
+.tudo {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
