@@ -5,6 +5,11 @@ html, body {
     font-family: "Andale Mono", monospace;
 }
 
+img {
+    background: white;
+    border-radius: 10px;
+}
+
 .candidato {
     display: flex;
     flex-direction: row;
