@@ -10,12 +10,6 @@ img {
     border-radius: 10px;
 }
 
-.candidato {
-    display: flex;
-    flex-direction: row;
-    font-size: 30px;
-}
-
 
 .tudo {
     border: 1rem ridge white;
