@@ -1,13 +1,23 @@
 html, body {
     margin: 10px;
-    background: white;
-    color: black;
+    background: black;
+    color: white;
     font-family: "Andale Mono", monospace;
 }
 
 .candidato {
     display: flex;
     flex-direction: row;
-    border-style: solid;
 }
+
+
+.tudo {
+    border: 1rem ridge white;
+}
+
+.partedentro {
+  margin: 10px;
+}
+
+
 
