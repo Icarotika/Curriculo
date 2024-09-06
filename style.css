@@ -8,6 +8,7 @@ html, body {
 .candidato {
     display: flex;
     flex-direction: row;
+    font-size: 30px;
 }
 
 
