@@ -5,9 +5,7 @@ html, body {
     font-family: "Andale Mono", monospace;
 }
 
-.candidato {
-    display: flex;
-    flex-direction: row;
+.candidato {
     font-size: 30px
 }
 
