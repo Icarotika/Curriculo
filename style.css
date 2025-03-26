@@ -2,4 +2,23 @@ html, body {
     background: white;
     color: black;
     font-family: "Andale Mono", monospace;
+    border-style: double;
+    padding: 10px;
+    display: inline-flex;
 }
+
+.candidato {
+    display: inline;
+    padding-right: 10px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.vl {
+    border-left: 1px solid gray;
+    height: 98%;
+    padding: 10px;
+
+  }
